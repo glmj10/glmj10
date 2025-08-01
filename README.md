@@ -27,6 +27,8 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
 </p>
 
 ## ✨ What Makes Me Stand Out
@@ -38,22 +40,27 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
 <br><strong>Backend Focus</strong>
 <br>Building robust APIs with Java & Spring Boot
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
 <br><strong>Frontend Passion</strong>
 <br>Creating intuitive UIs with React
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
 <br><strong>Server-Side JS</strong>
 <br>Scalable backends with Node.js
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60"/>
+<br><strong>API Testing</strong>
+<br>Comprehensive testing with Postman
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
 <br><strong>DevOps Mindset</strong>
 <br>Containerizing for scalability
