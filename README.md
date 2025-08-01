@@ -53,13 +53,3 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
 </td>
 </tr>
 </table>
-
-### 🌟 Fun Facts About Me
-```javascript
-const glmj10 = {
-    name: "Developer",
-    location: "Vietnam 🇻🇳",
-    currentFocus: ["Java", "Spring Boot", "React", "Docker"],
-    hobbies: ["Coding", "Learning new tech", "Problem solving"],
-    motto: "Code with passion, learn with purpose! 🚀"
-};
