@@ -31,7 +31,7 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
 </p>
 
-## ✨ What Makes Me Stand Out
+## 🌱 My Growth Journey
 
 <div align="center">
 
