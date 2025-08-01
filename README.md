@@ -1,74 +1,37 @@
-# Hi there! 👋 I'm a Passionate Developer
+# Hi there! 👋 I'm glmj10
 
 ## 🚀 About Me
-I'm an enthusiastic computer science student actively seeking **internship opportunities** to apply my knowledge and gain hands-on experience in software development. I'm passionate about learning new technologies and building innovative solutions.
+I'm a developer who enjoys exploring and learning new technologies. I love building things and experimenting with different tools and frameworks.
 
-## 🎯 What I'm Looking For
-I'm actively seeking **internship positions** where I can:
-- Apply my technical skills in real-world projects
-- Learn from experienced developers and mentors
-- Contribute to meaningful software development projects
-- Gain practical experience in software engineering best practices
-- Grow my skills in a collaborative team environment
+## 🛠️ Technologies I Use
 
-## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-### Programming Languages
-- **Java** - Object-oriented programming, data structures, algorithms
-- **JavaScript** - ES6+, modern JavaScript features
+## 📊 GitHub Stats
 
-### Frontend Development
-- **ReactJS** - Component-based architecture, hooks, state management
-- **HTML5 & CSS3** - Responsive design, modern web standards
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glmj10&show_icons=true&theme=radical&hide_border=true)
 
-### Tools & Technologies
-- **Docker** - Containerization, deployment, microservices
-- **Git** - Version control, collaborative development
-- **REST APIs** - API integration and development
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glmj10&layout=compact&theme=radical&hide_border=true)
 
-### Currently Learning
-- Spring Boot framework
-- Database management (SQL)
+</div>
 
-## 📚 Education
-- **Computer Science Student** (Currently pursuing)
-- **Relevant Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Web Development
-
-## 🌟 Projects & Learning
-### Personal Learning Projects
-- **Java Applications:** Console-based applications demonstrating OOP principles
-- **React Web Apps:** Interactive frontend applications with modern React features
-- **Docker Containers:** Containerized applications for easy deployment
-
-*I'm continuously working on personal projects to strengthen my skills and will be updating this repository with my latest work.*
-
-## 📊 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glmj10&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glmj10&layout=compact&theme=radical)
-
-## 💡 What I Bring to an Internship
-- **Strong Foundation:** Solid understanding of programming fundamentals
-- **Quick Learner:** Eager to learn new technologies and frameworks
-- **Problem Solver:** Analytical thinking and debugging skills
-- **Team Player:** Ready to collaborate and contribute to team projects
-- **Growth Mindset:** Open to feedback and continuous improvement
-
-## 🎓 Goals
-- Gain practical experience in software development
-- Learn industry best practices and development methodologies
-- Contribute to real-world projects that make a difference
-- Build professional relationships and network within the tech industry
-
-## 📫 Let's Connect!
-I'm always open to discussing internship opportunities and connecting with fellow developers!
-
-- **GitHub:** [@glmj10](https://github.com/glmj10)
-- **Email:** [Your email address]
-- **LinkedIn:** [Your LinkedIn profile]
-- **Location:** [Your location]
+## 🌱 Currently Exploring
+- Building applications with **Java**
+- Creating interactive UIs with **ReactJS**
+- Containerizing applications with **Docker**
 
 ---
 
-🌟 **Available for internship opportunities starting immediately!**
-
-⭐️ From [glmj10](https://github.com/glmj10)
+<div align="center">
+  <p>Thanks for visiting my profile! 🌟</p>
+  <p>⭐️ From <a href="https://github.com/glmj10">glmj10</a></p>
+</div>
