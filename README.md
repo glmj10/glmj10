@@ -19,6 +19,8 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -36,20 +38,27 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
 <br><strong>Backend Focus</strong>
 <br>Building robust APIs with Java & Spring Boot
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
 <br><strong>Frontend Passion</strong>
 <br>Creating intuitive UIs with React
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+<br><strong>Server-Side JS</strong>
+<br>Scalable backends with Node.js
+</td>
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
 <br><strong>DevOps Mindset</strong>
 <br>Containerizing for scalability
 </td>
 </tr>
 </table>
+
+</div>
