@@ -1,15 +1,55 @@
-# Project Title
+# Hi there! 👋 I'm glmj10
 
-Description of the project.
+## 🚀 About Me
+I'm a developer who enjoys exploring and learning new technologies. I love building things and experimenting with different tools and frameworks.
 
-## Links
+<p align="center">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nguyen-huu-tuan-0b742132b)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[https://facebook.com/your-profile](https://www.facebook.com/nguyen.huu.tuan.297305)">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/nguyen-huu-tuan-0b742132b)
+## 🛠️ Technologies I Use
 
-## Installation
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-Instructions for installation.
+## ✨ What Makes Me Stand Out
 
-## Usage
+<div align="center">
 
-Instructions for usage.
+### 🎯 My Coding Philosophy
+*"Clean code is not written by following a set of rules. Clean code is written by programmers who care."*
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
+<br><strong>Backend Focus</strong>
+<br>Building robust APIs with Java & Spring Boot
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+<br><strong>Frontend Passion</strong>
+<br>Creating intuitive UIs with React
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
+<br><strong>DevOps Mindset</strong>
+<br>Containerizing for scalability
+</td>
+</tr>
+</table>
