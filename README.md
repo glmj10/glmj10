@@ -4,13 +4,13 @@
 I'm a developer who enjoys exploring and learning new technologies. I love building things and experimenting with different tools and frameworks.
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/nguyen-huu-tuan-0b742132b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://facebook.com/your-profile">
+  <a href="https://www.facebook.com/nguyen.huu.tuan.297305">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tuantt3010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
