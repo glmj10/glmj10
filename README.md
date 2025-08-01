@@ -27,24 +27,39 @@ I'm a developer who enjoys exploring and learning new technologies. I love build
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 📊 GitHub Stats
+## ✨ What Makes Me Stand Out
 
 <div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glmj10&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glmj10&layout=compact&theme=radical&hide_border=true)
+### 🎯 My Coding Philosophy
+*"Clean code is not written by following a set of rules. Clean code is written by programmers who care."*
 
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
+<br><strong>Backend Focus</strong>
+<br>Building robust APIs with Java & Spring Boot
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+<br><strong>Frontend Passion</strong>
+<br>Creating intuitive UIs with React
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
+<br><strong>DevOps Mindset</strong>
+<br>Containerizing for scalability
+</td>
+</tr>
+</table>
 
-## 🌱 Currently Exploring
-- Building applications with **Java** and **Spring Boot**
-- Creating interactive UIs with **ReactJS**
-- Containerizing applications with **Docker**
-
----
-
-<div align="center">
-  <p>Thanks for visiting my profile! 🌟</p>
-  <p>⭐️ From <a href="https://github.com/glmj10">glmj10</a></p>
-</div>
+### 🌟 Fun Facts About Me
+```javascript
+const glmj10 = {
+    name: "Developer",
+    location: "Vietnam 🇻🇳",
+    currentFocus: ["Java", "Spring Boot", "React", "Docker"],
+    hobbies: ["Coding", "Learning new tech", "Problem solving"],
+    motto: "Code with passion, learn with purpose! 🚀"
+};
